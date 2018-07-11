@@ -5,4 +5,4 @@ select
 from langlinks as ll
 group by 
 	ll.ll_from
-   limit 5000
+limit 5000
